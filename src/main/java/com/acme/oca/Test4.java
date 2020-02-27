@@ -5,6 +5,10 @@
  */
 package com.acme.oca;
 
+/**
+ * @author Alexander Chiran
+ * @author achir
+ */
 public class Test4 {
      static {
          System.out.println(1/0);

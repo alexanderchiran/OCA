@@ -7,7 +7,7 @@ package com.acme.oca;
 
 /**
  *
- * @author ASUS
+ * @author @author Alexander Chiran
  */
 public class Test9 {
     

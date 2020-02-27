@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author ASUS
+ * @author @author Alexander Chiran
  */
 public class Test7 {
 
